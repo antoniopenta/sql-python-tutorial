@@ -20,4 +20,5 @@ It is a folder with all the data, and the backup of the database, that can be im
 
 * SQLPrimer.pdf
 It is a presentation used to explain SQL operators like join, cartesian product, group by, having, select * from * where *.
+Some examples have been taken from http://web.stanford.edu/class/cs145/
 
